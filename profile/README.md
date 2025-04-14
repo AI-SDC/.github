@@ -14,4 +14,4 @@ This organisation holds the code repositories for the **SACRO** family of tools:
 - **SACRO-ML**:
   - disclosure risk assessment and management tools for AI models.
 
-**Each Repository contains installation instuctions for standard package managers such as CRAN, PyPi and Conda**
+**Each Repository contains installation instructions for standard package managers such as CRAN, PyPi and Conda**
