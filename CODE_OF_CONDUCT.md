@@ -35,7 +35,7 @@ Maintainers will:
   - Issuing warnings or requests for corrective behavior
   - Removing, editing, or redacting violating content
   - Temporarily or permanently restricting access to the project
-- In cases of data or security risk, take immediate mitigation measures (e.g., revoking access, resetting credentials)
+- In cases of data or security risk, take immediate mitigation measures (e.g., revoking access)
 - Maintain confidentiality throughout the process while keeping relevant parties informed
 
 ## Acknowledgment
